@@ -1,0 +1,1 @@
+# Soil-Image-Property-Analyst-Using-Data-Mining
